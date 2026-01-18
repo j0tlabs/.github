@@ -1,6 +1,6 @@
 # J0tlabs
 
-![jotlabs](./jot-org.png)
+![jotlabs](./jotlabs-logo.png)
 
 J0tlabs is a collection of open-source projects and tools developed by Jot. 
 It encompasses various software solutions, libraries, and utilities aimed at enhancing productivity 
